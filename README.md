@@ -1,0 +1,1 @@
+Have the script folder in the same directory where you have the Dataset folder containing the KITTI Dataset. Place the script inside the script folder and running the script would fetch you the same output as the Expected_Output and Expected_3D_Trajectory.
